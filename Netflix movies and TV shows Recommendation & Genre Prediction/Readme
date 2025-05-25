@@ -1,8 +1,36 @@
 Netflix Movies and TV Shows Recommendation and Genre Prediction Project:
+
 * Dataset: Dataset is from Kaggle.
+
 - Here is the link for the Dataset-https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 * The Project PowerPoint presentation is in the Project folder.
-* Here is the Link to the video PowerPoint Presentation of the project[link:https://docs.google.com/presentation/d/1Mql9oL6lfY3rFuG7aSlcJJgpWJ3BUwDi/edit?usp=sharing&ouid=100526170233176923678&rtpof=true&sd=true ] 
-* Project code in Python can also be found in the project folder.
+
+--Here is the Link to the video PowerPoint Presentation of the project[link:https://docs.google.com/presentation/d/1Mql9oL6lfY3rFuG7aSlcJJgpWJ3BUwDi/edit?usp=sharing&ouid=100526170233176923678&rtpof=true&sd=true ] 
+
+--Project code in Python-EDA-https://colab.research.google.com/drive/1GiB8hAlbpHpl-glqNwX5GGztCHJD4Zby?usp=sharing.
+
+Exploratory Data Analysis (EDA)
+
+-Visualize trends, distributions, and relationships
+
+-Used heatmaps, boxplot, histogram, correlations matrix,
+
+Recommendation System Implementation:
+
+-Content-based filtering
+
+-Collaborative filtering
+
+Model Evaluation:
+
+-Accuracy metrics: Confusion Matrix, Misclassification rate
+
+Technologies Used:
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
+
+Machine Learning (Classification & Recommendation Models)
+
 ## Contact
-Reach me on [linkedin:(www.linkedin.com/in/priyasrisankaran)]
+
+-Reach me on [linkedin:(www.linkedin.com/in/priyasrisankaran)]

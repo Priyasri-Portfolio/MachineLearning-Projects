@@ -9,7 +9,7 @@ Netflix Movies and TV Shows Recommendation and Genre Prediction Project:
 --Here is the Link to the video PowerPoint Presentation of the project[link:https://docs.google.com/presentation/d/1Mql9oL6lfY3rFuG7aSlcJJgpWJ3BUwDi/edit?usp=sharing&ouid=100526170233176923678&rtpof=true&sd=true ] 
 
 --Project code in Python-EDA-https://colab.research.google.com/drive/1GiB8hAlbpHpl-glqNwX5GGztCHJD4Zby?usp=sharing.
---Project Model-Evaluation code in python-https://colab.research.google.com/drive/1Cl_KFQOuMcDndJfyk1jiOMyTsyfi5npI?usp=sharing
+--Project Model-Evaluation-code in python-https://colab.research.google.com/drive/1Cl_KFQOuMcDndJfyk1jiOMyTsyfi5npI?usp=sharing
 
 Exploratory Data Analysis (EDA)
 
@@ -24,6 +24,10 @@ Recommendation System Implementation:
 -Collaborative filtering
 
 Model Evaluation:
+
+-Used the following classifiers' Machine-Learning models to perform classifications
+
+-Logistic Regression, Decision tree, Naive Bayes, Support Vector, Random Forest, Gradient Boosting
 
 -Accuracy metrics: Confusion Matrix, Misclassification rate
 

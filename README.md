@@ -14,6 +14,6 @@ Project Files
 
 -PowerPoint Presentation: In the Project folder
 
--Analysis Report: uploaded to the folder
+-Analysis Report: uploaded to the Project folder
 
 Feel free to connect with me on [linkedin:(www.linkedin.com/in/priyasrisankaran)]
